@@ -1,1 +1,3 @@
 # Lunar-Landing-Game
+This is a game that simulates the Apollo lunar module landing on the moon. Your game will have a JavaFX GUI and a physics engine (provided) that does the physics calculations for the game.
+To land the lunar module, players use the Thrust button to slow the descent as gravity pulls the lunar lander toward the moon. Land too fast and the lander will crash. Careful not to use up all your fuel, or your thruster stops working! The lander’s height, vertical velocity (negative means down), and fuel remaining are displayed using some combination of numbers, progress bars, or other indicators. 
